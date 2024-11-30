@@ -1,0 +1,38 @@
+manifestVersion: 1
+id: emulatorjs
+category: media
+name: EmulatorJS
+icon: https://i.imgur.com/ah6RWX2.jpeg
+version: "1.9.2-LS145"
+tagline: Play retro games directly in your browser!
+description: >-
+  EmulatorJS allows you to play retro video games from
+  the comfort of your web browser.
+
+  
+  With support for a wide variety of gaming consoles and
+  systems, including NES, SNES, Sega Genesis, and more, 
+  EmulatorJS delivers a seamless retro gaming experience
+  without requiring additional software installations. 
+
+
+  Whether you are reliving childhood classics or exploring
+  retro gaming for the first time, EmulatorJS is a powerful, 
+  user-friendly solution for turning your browser into a
+  nostalgic arcade. Perfect for Umbrel users who want to
+  combine retro gaming with the convenience of their
+  decentralized home server.
+developer: LinuxServer.io
+website: https://docs.linuxserver.io/images/docker-emulatorjs/
+dependencies:
+repo: https://github.com/linuxserver/emulatorjs
+support: https://github.com/linuxserver/emulatorjs/issues
+port: 5678
+gallery:
+  - https://i.imgur.com/hHAPq9A.jpeg
+  - https://i.imgur.com/IKjzBmd.jpeg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+submitter: kodaxx
+submission: 
